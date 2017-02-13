@@ -1,15 +1,14 @@
 This is a test file,
 This is a bloody test file
 For bloody testing branch!
-<<<<<<< HEAD
+
 This is a test for the Master branch.
 Another change made in master.
 
 def master():
 	testing it to see if it works
-||||||| merged common ancestors
-=======
+
 def sexy():
 	This is the test for the sexy branch
 	this is emulating a python def
->>>>>>> sexy
+
